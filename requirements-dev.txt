@@ -1,0 +1,4 @@
+-r requirements.txt
+playwright>=1.45        # make qa / make showcase   (then: playwright install chromium)
+rembg[cli]>=2.0.57      # optional: cut backgrounds from photos and avatars   (rembg i in.jpg out.png)
+onnxruntime>=1.18
