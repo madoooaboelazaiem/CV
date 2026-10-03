@@ -1,12 +1,12 @@
 # Mohamed Salama — Portfolio
 
 <p align="center">
-  <a href="https://madoooaboelazaiem.github.io/portfolio/"><img src="docs/img/hero.gif" alt="Animated preview: the 3D character draws itself in pencil, colours in, and is erased back to pencil by the cursor" width="820"></a>
+  <a href="https://madoooaboelazaiem.github.io/CV/"><img src="docs/img/hero.gif" alt="Animated preview: the 3D character draws itself in pencil, colours in, and is erased back to pencil by the cursor" width="820"></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/madoooaboelazaiem/portfolio/actions/workflows/pages.yml"><img src="https://github.com/madoooaboelazaiem/portfolio/actions/workflows/pages.yml/badge.svg" alt="Deploy status"></a>
-  <a href="https://madoooaboelazaiem.github.io/portfolio/"><img src="https://img.shields.io/badge/live-site-1C2B4A" alt="Live site"></a>
+  <a href="https://madoooaboelazaiem.github.io/CV/"><img src="https://img.shields.io/badge/live-site-1C2B4A" alt="Live site"></a>
   <img src="https://img.shields.io/badge/runtime_dependencies-none-2F7A4F" alt="No runtime dependencies">
   <a href="LICENSE"><img src="https://img.shields.io/badge/code-MIT-blue" alt="Code: MIT"></a>
 </p>
