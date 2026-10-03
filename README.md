@@ -13,7 +13,7 @@
 
 An interactive portfolio built from a CV. One self-contained HTML file per theme: no framework, no bundler, no external JavaScript. Every word on the page comes from [`site/content.json`](site/content.json), so updating it means editing text, not code.
 
-**Live:** [https://madoooaboelazaiem.github.io/portfolio/](https://madoooaboelazaiem.github.io/portfolio/) · **Editorial theme:** [https://madoooaboelazaiem.github.io/portfolio/editorial/](https://madoooaboelazaiem.github.io/portfolio/editorial/)
+**Live:** [https://madoooaboelazaiem.github.io/portfolio/](https://madoooaboelazaiem.github.io/CV/portfolio/) · **Editorial theme:** [https://madoooaboelazaiem.github.io/editorial/](https://madoooaboelazaiem.github.io/CV/editorial/)
 
 ## Contents
 
