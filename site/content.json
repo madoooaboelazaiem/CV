@@ -1,1 +1,1525 @@
-
+{
+  "meta": {
+    "title": "Mohamed Salama — Senior Software Engineer, Full-stack",
+    "description": "Mohamed Salama, Senior Software Engineer (full-stack, backend-first) and tech lead in Brussels. Distributed payment systems, FinTech and AI.",
+    "lang": "en"
+  },
+  "person": {
+    "name": "Mohamed Salama",
+    "firstName": "Mohamed",
+    "watermark": "SALAMA",
+    "monogram": "MS",
+    "brandSuffix": "Salama",
+    "email": "mohamedsalama.dev@gmail.com",
+    "location": "Brussels, Belgium",
+    "resumeFilename": "Mohamed-Salama-CV.pdf",
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/madoooaboelazaiem"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://linkedin.com/in/madoooaboelazaiem"
+      },
+      {
+        "label": "Kaggle",
+        "url": "https://kaggle.com/madoooaboelazaiem"
+      }
+    ]
+  },
+  "nav": {
+    "about": "About",
+    "ai": "AI",
+    "skills": "Skills",
+    "work": "Work",
+    "systems": "Systems",
+    "experience": "Experience",
+    "achievements": "Achievements",
+    "contact": "Contact"
+  },
+  "hero": {
+    "eyebrow": "Mohamed Salama",
+    "titleLines": [
+      "Senior Software",
+      "Engineer"
+    ],
+    "role": "Full-stack, backend-first.",
+    "rotPrefix": "Building",
+    "rotWords": [
+      "distributed systems",
+      "message queues",
+      "payment rails",
+      "NestJS services",
+      "React frontends",
+      "LLM orchestration",
+      "durable workflows"
+    ],
+    "sub": "Tech lead with 8+ years across banking payments, trading analytics and FinTech startups. Distributed systems and message queues are my strength; I ship the frontends on top too, and build AI on solid foundations.",
+    "currentLabel": "Currently",
+    "current": "Distributed payments, Keytrade Bank",
+    "hint": "Move across to look under the hood",
+    "hintTouch": "Drag sideways to look under the hood",
+    "ctaWork": "Explore work",
+    "ctaTalk": "Let's talk",
+    "ctaResume": "Résumé",
+    "avatarFace": {
+      "x": 0.5,
+      "y": 0.21,
+      "r": 0.3
+    },
+    "bigWord": "Portfolio",
+    "greeting": "Hi, I'm",
+    "labels": [
+      "Backend-first",
+      "Payments",
+      "Full-stack",
+      "AI"
+    ],
+    "sketchHint": "hover me to see the sketch",
+    "sketchHintTouch": "tap me to redraw"
+  },
+  "marquee": [
+    "distributed systems",
+    "full-stack",
+    "RabbitMQ",
+    "message queues",
+    "Kafka",
+    "NestJS",
+    "payments",
+    "React",
+    "LLM orchestration",
+    "gRPC",
+    "durable workflows",
+    "Claude skills",
+    "Inngest",
+    "Kubernetes"
+  ],
+  "about": {
+    "heading": [
+      "Hi, I'm",
+      "Mohamed."
+    ],
+    "paragraphs": [
+      "I'm a full-stack engineer and tech lead, heavier on the backend. At Keytrade Bank I work on the distributed systems behind digital banking payments: services and message queues carrying instant payments, SEPA direct debits, SWIFT transfers and the rest of retail and corporate payments.",
+      "Before that I was a founding member of Sylndr, a VC-backed automotive FinTech marketplace in Cairo. I led its engineering team of 12+ developers across backend, frontend and mobile, and architected the platform through roughly tenfold sales growth.",
+      "AI has been part of my work since my first job in Belgium, building AI trade surveillance in Nivelles. Today I drive AI transformation with Claude skills, and build AI products the way I build payments: durable Inngest workflows instead of callbacks and polling, multi-LLM orchestration, and clean API integrations.",
+      "Outside the day job I've built digital products of my own, including a travel guide and planner and an early e-commerce platform."
+    ],
+    "resumeLabel": "Download résumé",
+    "idCard": {
+      "heading": "Engineer ID",
+      "location": "Brussels · EU",
+      "nameLines": [
+        "Mohamed",
+        "Salama"
+      ],
+      "role": "Senior Software Engineer, Tech Lead",
+      "meta": [
+        [
+          "Profile",
+          "Full-stack, backend-first"
+        ],
+        [
+          "Field",
+          "Distributed systems, payments, AI"
+        ],
+        [
+          "Years",
+          "8+"
+        ]
+      ],
+      "balanceLabel": "Stack weight",
+      "balance": [
+        [
+          "Backend",
+          70
+        ],
+        [
+          "Frontend",
+          30
+        ]
+      ],
+      "code": [
+        "MS · 8+ YRS",
+        "GUC · CSE 2021"
+      ]
+    },
+    "facts": [
+      [
+        "Based in",
+        "Brussels, Belgium"
+      ],
+      [
+        "Role",
+        "Senior Software Engineer, Payment Systems at Keytrade Bank"
+      ],
+      [
+        "Profile",
+        "Full-stack, backend-first: Node.js, NestJS, queues; React, React Native, Vue"
+      ],
+      [
+        "Main language",
+        "TypeScript"
+      ],
+      [
+        "Startup",
+        "Founding member and team lead, Sylndr"
+      ],
+      [
+        "Experience",
+        "8+ years across FinTech, trading analytics and automotive"
+      ],
+      [
+        "Languages",
+        "Arabic, English, French, German"
+      ],
+      [
+        "Work rights",
+        "Full EU work authorization"
+      ]
+    ],
+    "quote": "Solid foundations first. Then let the models work."
+  },
+  "ai": {
+    "heading": [
+      "AI, on solid",
+      "foundations."
+    ],
+    "lede": "Applied AI since my first job in Belgium. Now Claude skills, durable LLM workflows and multi-model orchestration, engineered like production systems.",
+    "pillars": [
+      {
+        "title": "Claude skills",
+        "detail": "AI transformation: conventions, architecture and review history packaged as skills, so agents work the way the team does.",
+        "tag": "Now"
+      },
+      {
+        "title": "Multi-LLM orchestration",
+        "detail": "An orchestrator (master) model plans and routes; worker models execute; the orchestrator validates and merges.",
+        "tag": "Side projects"
+      },
+      {
+        "title": "Durable workflows",
+        "detail": "Inngest functions instead of callbacks or continuous polling. Steps retry and resume; waiting is an event.",
+        "tag": "Side projects"
+      },
+      {
+        "title": "Model harnessing & APIs",
+        "detail": "Prompt engineering, typed outputs and clean API integrations with model providers.",
+        "tag": "Side projects"
+      },
+      {
+        "title": "AI trade surveillance",
+        "detail": "Where it started: a decision-tree model pipeline on high-frequency trade data, Features Analytics, Nivelles.",
+        "tag": "2023 – 2024"
+      }
+    ]
+  },
+  "skills": {
+    "heading": [
+      "The periodic table",
+      "of my stack."
+    ],
+    "lede": "Every element is something I've used in production or listed on my CV. Pick one to see where it was used.",
+    "categories": [
+      [
+        "all",
+        "All"
+      ],
+      [
+        "lang",
+        "Languages"
+      ],
+      [
+        "back",
+        "Backend & messaging"
+      ],
+      [
+        "arch",
+        "Architecture"
+      ],
+      [
+        "front",
+        "Frontend"
+      ],
+      [
+        "ai",
+        "AI"
+      ],
+      [
+        "fin",
+        "FinTech"
+      ],
+      [
+        "data",
+        "Data"
+      ],
+      [
+        "cloud",
+        "Cloud & DevOps"
+      ],
+      [
+        "obs",
+        "Observability"
+      ],
+      [
+        "ml",
+        "ML"
+      ]
+    ],
+    "items": [
+      {
+        "sym": "Ts",
+        "name": "TypeScript",
+        "cat": "lang",
+        "used": [
+          "Keytrade Bank",
+          "Sylndr",
+          "Side projects"
+        ],
+        "note": "My main language across backend and frontend, at Keytrade Bank and Sylndr."
+      },
+      {
+        "sym": "Js",
+        "name": "JavaScript",
+        "cat": "lang",
+        "used": [
+          "Epicore",
+          "LocusKey",
+          "Side projects"
+        ]
+      },
+      {
+        "sym": "Py",
+        "name": "Python",
+        "cat": "lang",
+        "used": [
+          "Features Analytics",
+          "DHBW thesis"
+        ]
+      },
+      {
+        "sym": "Jv",
+        "name": "Java",
+        "cat": "lang",
+        "used": [
+          "Features Analytics"
+        ],
+        "note": "Object-oriented backend for trading analytics."
+      },
+      {
+        "sym": "Sq",
+        "name": "SQL",
+        "cat": "lang",
+        "used": [
+          "Keytrade Bank",
+          "Features Analytics",
+          "Sylndr",
+          "Epicore",
+          "LocusKey"
+        ],
+        "note": "Query tuning across PostgreSQL, MySQL and MSSQL."
+      },
+      {
+        "sym": "No",
+        "name": "Node.js",
+        "cat": "back",
+        "used": [
+          "Keytrade Bank",
+          "Features Analytics",
+          "Sylndr",
+          "Epicore",
+          "LocusKey"
+        ],
+        "note": "The runtime under every backend since 2019."
+      },
+      {
+        "sym": "Ne",
+        "name": "NestJS",
+        "cat": "back",
+        "used": [
+          "Sylndr"
+        ]
+      },
+      {
+        "sym": "Rq",
+        "name": "RabbitMQ",
+        "cat": "back",
+        "used": [
+          "Keytrade Bank"
+        ],
+        "note": "Message queues for digital banking payments."
+      },
+      {
+        "sym": "Kf",
+        "name": "Kafka",
+        "cat": "back",
+        "used": [
+          "Keytrade Bank"
+        ]
+      },
+      {
+        "sym": "Gr",
+        "name": "gRPC",
+        "cat": "back",
+        "used": [
+          "Keytrade Bank"
+        ]
+      },
+      {
+        "sym": "Pb",
+        "name": "Protobuf",
+        "cat": "back",
+        "used": [
+          "Keytrade Bank"
+        ]
+      },
+      {
+        "sym": "Rs",
+        "name": "REST APIs",
+        "cat": "back",
+        "used": [
+          "Sylndr",
+          "Epicore"
+        ]
+      },
+      {
+        "sym": "Gq",
+        "name": "GraphQL",
+        "cat": "back",
+        "used": [
+          "Epicore"
+        ]
+      },
+      {
+        "sym": "Ws",
+        "name": "WebSockets",
+        "cat": "back",
+        "used": [
+          "Core competencies"
+        ]
+      },
+      {
+        "sym": "Ex",
+        "name": "Express",
+        "cat": "back",
+        "used": [
+          "Epicore"
+        ]
+      },
+      {
+        "sym": "Ds",
+        "name": "Distributed systems",
+        "cat": "arch",
+        "used": [
+          "Keytrade Bank",
+          "Sylndr"
+        ],
+        "note": "What I work on day to day at Keytrade Bank."
+      },
+      {
+        "sym": "Ed",
+        "name": "Event-driven",
+        "cat": "arch",
+        "used": [
+          "Keytrade Bank"
+        ],
+        "note": "Event-driven execution made standing orders 50% faster."
+      },
+      {
+        "sym": "Mc",
+        "name": "Microservices",
+        "cat": "arch",
+        "used": [
+          "Sylndr",
+          "Side projects"
+        ]
+      },
+      {
+        "sym": "Cb",
+        "name": "Circuit breakers",
+        "cat": "arch",
+        "used": [
+          "Keytrade Bank"
+        ],
+        "note": "A skip-record breaker took pipeline success from 92% to 99%."
+      },
+      {
+        "sym": "Ha",
+        "name": "High availability",
+        "cat": "arch",
+        "used": [
+          "Sylndr"
+        ]
+      },
+      {
+        "sym": "Ag",
+        "name": "API gateway",
+        "cat": "arch",
+        "used": [
+          "Core competencies"
+        ]
+      },
+      {
+        "sym": "Sm",
+        "name": "Service mesh",
+        "cat": "arch",
+        "used": [
+          "Core competencies"
+        ]
+      },
+      {
+        "sym": "Re",
+        "name": "React",
+        "cat": "front",
+        "used": [
+          "Keytrade Bank",
+          "Sylndr"
+        ]
+      },
+      {
+        "sym": "Rn",
+        "name": "React Native",
+        "cat": "front",
+        "used": [
+          "Sylndr"
+        ],
+        "note": "Mobile apps for Sylndr buyers."
+      },
+      {
+        "sym": "Vu",
+        "name": "Vue.js",
+        "cat": "front",
+        "used": [
+          "Features Analytics",
+          "LocusKey",
+          "Side projects"
+        ],
+        "note": "Dashboards that turn high-throughput trading data into something clients can act on."
+      },
+      {
+        "sym": "Cl",
+        "name": "Claude skills",
+        "cat": "ai",
+        "used": [
+          "AI transformation"
+        ],
+        "note": "Encoding a team’s conventions, architecture and review history as skills, so agents work the way the engineers do."
+      },
+      {
+        "sym": "Lo",
+        "name": "LLM orchestration",
+        "cat": "ai",
+        "used": [
+          "Side projects"
+        ],
+        "note": "Orchestrator–worker (master/slave) setups: one model plans and routes, workers execute, the orchestrator checks and merges."
+      },
+      {
+        "sym": "In",
+        "name": "Inngest",
+        "cat": "ai",
+        "used": [
+          "Side projects"
+        ],
+        "note": "Durable workflows for AI jobs instead of callbacks or continuous polling."
+      },
+      {
+        "sym": "Pe",
+        "name": "Prompt engineering",
+        "cat": "ai",
+        "used": [
+          "Side projects",
+          "AI transformation"
+        ]
+      },
+      {
+        "sym": "Ap",
+        "name": "AI API integrations",
+        "cat": "ai",
+        "used": [
+          "Side projects"
+        ],
+        "note": "Wiring model providers into products through clean, typed integrations."
+      },
+      {
+        "sym": "Mh",
+        "name": "Model harnessing",
+        "cat": "ai",
+        "used": [
+          "Side projects"
+        ],
+        "note": "Putting models to work with the right context, tools and guardrails."
+      },
+      {
+        "sym": "Sv",
+        "name": "Trade surveillance",
+        "cat": "ai",
+        "used": [
+          "Features Analytics"
+        ],
+        "note": "AI on high-frequency trade data, my first job in Belgium."
+      },
+      {
+        "sym": "Ip",
+        "name": "Instant payments",
+        "cat": "fin",
+        "used": [
+          "Keytrade Bank"
+        ]
+      },
+      {
+        "sym": "Se",
+        "name": "SEPA",
+        "cat": "fin",
+        "used": [
+          "Keytrade Bank"
+        ]
+      },
+      {
+        "sym": "Sw",
+        "name": "SWIFT",
+        "cat": "fin",
+        "used": [
+          "Keytrade Bank"
+        ]
+      },
+      {
+        "sym": "So",
+        "name": "Standing orders",
+        "cat": "fin",
+        "used": [
+          "Keytrade Bank"
+        ]
+      },
+      {
+        "sym": "Gw",
+        "name": "Payment gateways",
+        "cat": "fin",
+        "used": [
+          "Sylndr",
+          "LocusKey"
+        ],
+        "note": "Paymob at Sylndr; gateway integration at LocusKey."
+      },
+      {
+        "sym": "Pg",
+        "name": "PostgreSQL",
+        "cat": "data",
+        "used": [
+          "Keytrade Bank",
+          "Features Analytics",
+          "Sylndr",
+          "Epicore",
+          "LocusKey"
+        ]
+      },
+      {
+        "sym": "Rd",
+        "name": "Redis",
+        "cat": "data",
+        "used": [
+          "Keytrade Bank",
+          "Sylndr"
+        ]
+      },
+      {
+        "sym": "Mg",
+        "name": "MongoDB",
+        "cat": "data",
+        "used": [
+          "Sylndr",
+          "Epicore"
+        ]
+      },
+      {
+        "sym": "My",
+        "name": "MySQL",
+        "cat": "data",
+        "used": [
+          "Core competencies"
+        ]
+      },
+      {
+        "sym": "Mq",
+        "name": "MSSQL",
+        "cat": "data",
+        "used": [
+          "Core competencies"
+        ]
+      },
+      {
+        "sym": "Ar",
+        "name": "ArangoDB",
+        "cat": "data",
+        "used": [
+          "Core competencies"
+        ]
+      },
+      {
+        "sym": "Aw",
+        "name": "AWS",
+        "cat": "cloud",
+        "used": [
+          "Keytrade Bank",
+          "Features Analytics",
+          "Sylndr",
+          "LocusKey"
+        ],
+        "note": "EC2, ECS, RDS, S3 and Lambda. AWS Certified Cloud Practitioner."
+      },
+      {
+        "sym": "Gc",
+        "name": "GCP",
+        "cat": "cloud",
+        "used": [
+          "Sylndr"
+        ]
+      },
+      {
+        "sym": "K8",
+        "name": "Kubernetes",
+        "cat": "cloud",
+        "used": [
+          "Sylndr"
+        ],
+        "note": "Production clusters with automated release pipelines."
+      },
+      {
+        "sym": "Dk",
+        "name": "Docker",
+        "cat": "cloud",
+        "used": [
+          "Core competencies"
+        ]
+      },
+      {
+        "sym": "Tf",
+        "name": "Terraform",
+        "cat": "cloud",
+        "used": [
+          "Keytrade Bank"
+        ],
+        "note": "Infrastructure as code in production on AWS."
+      },
+      {
+        "sym": "Gl",
+        "name": "GitLab CI",
+        "cat": "cloud",
+        "used": [
+          "Sylndr"
+        ]
+      },
+      {
+        "sym": "Gh",
+        "name": "GitHub Actions",
+        "cat": "cloud",
+        "used": [
+          "Core competencies"
+        ]
+      },
+      {
+        "sym": "Nx",
+        "name": "Nginx",
+        "cat": "cloud",
+        "used": [
+          "Core competencies"
+        ]
+      },
+      {
+        "sym": "Dt",
+        "name": "Dynatrace",
+        "cat": "obs",
+        "used": [
+          "Keytrade Bank"
+        ]
+      },
+      {
+        "sym": "Es",
+        "name": "Elasticsearch",
+        "cat": "obs",
+        "used": [
+          "Keytrade Bank"
+        ]
+      },
+      {
+        "sym": "Dg",
+        "name": "Datadog",
+        "cat": "obs",
+        "used": [
+          "Core competencies"
+        ]
+      },
+      {
+        "sym": "Cw",
+        "name": "CloudWatch",
+        "cat": "obs",
+        "used": [
+          "Core competencies"
+        ]
+      },
+      {
+        "sym": "Tc",
+        "name": "Distributed tracing",
+        "cat": "obs",
+        "used": [
+          "Core competencies"
+        ]
+      },
+      {
+        "sym": "Cv",
+        "name": "OpenCV",
+        "cat": "ml",
+        "used": [
+          "DHBW thesis"
+        ]
+      },
+      {
+        "sym": "Kr",
+        "name": "Keras",
+        "cat": "ml",
+        "used": [
+          "DHBW thesis"
+        ]
+      },
+      {
+        "sym": "Np",
+        "name": "NumPy",
+        "cat": "ml",
+        "used": [
+          "DHBW thesis"
+        ]
+      },
+      {
+        "sym": "Pd",
+        "name": "Pandas",
+        "cat": "ml",
+        "used": [
+          "DHBW thesis"
+        ]
+      }
+    ]
+  },
+  "work": {
+    "heading": [
+      "Things I've",
+      "built."
+    ],
+    "lede": "Backend-heavy, full-stack work: digital banking payments, a startup I helped found, and the AI systems I build on the side.",
+    "projects": [
+      {
+        "title": "Digital banking payments",
+        "rail": "Banking payments",
+        "org": "Keytrade Bank",
+        "period": "2024 – now",
+        "category": "Distributed systems, messaging",
+        "visual": "pay",
+        "description": "Services and message queues behind retail and corporate payments at a regulated EU bank: instant payments, SEPA direct debits, SWIFT transfers, memo payments and standing orders.",
+        "points": [
+          "Event-driven processing over RabbitMQ and Kafka, with gRPC and Protobuf contracts",
+          "Skip-record circuit breaker: pipeline success from 92% to 99%",
+          "Event-driven execution with exponential backoff: 50% faster standing orders",
+          "Real-time observability on Dynatrace and Elasticsearch"
+        ],
+        "tags": [
+          "Node.js",
+          "TypeScript",
+          "RabbitMQ",
+          "Kafka",
+          "gRPC",
+          "Protobuf",
+          "PostgreSQL",
+          "Redis",
+          "React",
+          "AWS",
+          "Terraform"
+        ],
+        "notes": [
+          [
+            "Scope",
+            "Full-spectrum retail and corporate payment infrastructure in a regulated EU financial institution."
+          ],
+          [
+            "Approach",
+            "Distributed services communicating through queues and typed contracts; failures isolated per record, retried with backoff, and measured in real time."
+          ],
+          [
+            "Results",
+            "92% → 99% pipeline success, 50% faster standing orders, 30% faster onboarding through runbooks and documentation."
+          ]
+        ]
+      },
+      {
+        "title": "Founding a FinTech marketplace",
+        "rail": "Sylndr",
+        "org": "Sylndr",
+        "period": "2022 – 2023",
+        "category": "Founding member, full-stack team lead",
+        "visual": "syl",
+        "description": "Founding member of a VC-backed automotive FinTech marketplace ($12.6M pre-seed). I led engineering and architected the platform end to end: NestJS microservices, React web and React Native apps, behind $20–25K vehicle transactions.",
+        "points": [
+          "Led 12+ developers across backend, frontend and mobile",
+          "NestJS microservices on AWS and GCP with 15+ integrations",
+          "Roughly 10× sales growth during my tenure"
+        ],
+        "tags": [
+          "NestJS",
+          "Node.js",
+          "React",
+          "React Native",
+          "PostgreSQL",
+          "MongoDB",
+          "Redis",
+          "Kubernetes",
+          "AWS",
+          "GCP"
+        ],
+        "notes": [
+          [
+            "Context",
+            "$12.6M pre-seed, one of Africa’s largest. Average transactions of $20–25K."
+          ],
+          [
+            "My role",
+            "Founding member and team lead: hiring, code review standards, GitLab CI/CD, sprint rituals, intern mentoring."
+          ],
+          [
+            "Built",
+            "Multi-cloud microservices, Paymob, Cequens and Twilio integrations, inspection scheduling, automated Kubernetes releases."
+          ]
+        ]
+      },
+      {
+        "title": "Multi-LLM orchestration",
+        "rail": "LLM orchestration",
+        "org": "Side project",
+        "period": "Ongoing",
+        "category": "AI, orchestration",
+        "visual": "orch",
+        "description": "An orchestrator–worker (master/slave) design: one model plans the job and routes subtasks, worker models execute them, and the orchestrator validates and merges before anything is returned.",
+        "points": [
+          "Each subtask routed to the model best suited for it",
+          "Results checked and retried before they are merged",
+          "Prompt-engineered roles, harnessed through provider APIs"
+        ],
+        "tags": [
+          "TypeScript",
+          "LLM APIs",
+          "Prompt engineering",
+          "Inngest"
+        ],
+        "notes": [
+          [
+            "Problem",
+            "A single prompt to a single model is fragile for multi-step work."
+          ],
+          [
+            "Approach",
+            "Separate planning from execution: an orchestrator model directs worker models and owns validation."
+          ]
+        ]
+      },
+      {
+        "title": "Durable AI workflows",
+        "rail": "Inngest workflows",
+        "org": "Side project",
+        "period": "Ongoing",
+        "category": "AI, workflows",
+        "visual": "flow",
+        "description": "AI pipelines on Inngest instead of callbacks or continuous polling. Each step retries and resumes on its own, and waiting is an event, not a loop.",
+        "points": [
+          "No polling loops around slow model calls",
+          "A failed step retries without re-running finished ones",
+          "Long-running jobs that survive deploys and restarts"
+        ],
+        "tags": [
+          "TypeScript",
+          "Inngest",
+          "LLM APIs",
+          "Event-driven"
+        ],
+        "notes": [
+          [
+            "Problem",
+            "Model calls are slow and flaky; callbacks and polling turn that into fragile glue code."
+          ],
+          [
+            "Approach",
+            "Durable, step-based functions triggered by events, with waits and retries handled by the workflow engine."
+          ]
+        ]
+      },
+      {
+        "title": "AI transformation with Claude skills",
+        "rail": "Claude skills",
+        "org": "AI transformation",
+        "period": "Now",
+        "category": "AI, engineering enablement",
+        "visual": "skills",
+        "description": "Turning a team’s conventions, architecture and review history into Claude skills, so AI agents review and build the way the engineers do.",
+        "points": [
+          "A skill per codebase and per discipline",
+          "Conventions and known failure modes encoded for agents",
+          "AI in the daily workflow, on top of solid engineering"
+        ],
+        "tags": [
+          "Claude",
+          "Agent skills",
+          "Prompt engineering",
+          "Code review"
+        ],
+        "notes": [
+          [
+            "Goal",
+            "Make AI useful on real codebases, not just in demos."
+          ],
+          [
+            "Approach",
+            "Package what senior engineers know into skills the agent loads on demand."
+          ]
+        ]
+      },
+      {
+        "title": "AI trade surveillance",
+        "rail": "Trade surveillance",
+        "org": "Features Analytics",
+        "period": "2023 – 2024",
+        "category": "AI, trading, full-stack",
+        "visual": "surv",
+        "description": "My first job in Belgium, in Nivelles: AI-driven surveillance and analytics on high-frequency trade data, with Vue.js dashboards for institutional clients.",
+        "points": [
+          "Decision-tree model pipeline for near real-time trade analysis",
+          "High-throughput computational backend in Java, Python and Node.js",
+          "Vue.js dashboards delivering actionable market intelligence"
+        ],
+        "tags": [
+          "Python",
+          "Java",
+          "Node.js",
+          "Vue.js",
+          "PostgreSQL",
+          "AWS"
+        ],
+        "notes": [
+          [
+            "Problem",
+            "Institutional clients needed actionable intelligence from high-frequency trade data, fast."
+          ],
+          [
+            "What I did",
+            "Designed the platform end to end and optimised the AI analysis pipeline with decision trees."
+          ],
+          [
+            "Result",
+            "Near real-time processing for high-frequency analytics workloads."
+          ]
+        ]
+      },
+      {
+        "title": "Cyclist performance tracking",
+        "rail": "R&D thesis",
+        "org": "DHBW Stuttgart",
+        "period": "2020",
+        "category": "Research, computer vision",
+        "visual": "cv",
+        "description": "Bachelor thesis as an R&D engineer in Stuttgart: an intelligent system that tracks athlete performance to optimise cyclist training behaviour.",
+        "points": [
+          "Computer vision and machine learning",
+          "Built in Germany, March to August 2020"
+        ],
+        "tags": [
+          "Python",
+          "OpenCV",
+          "NumPy",
+          "Pandas",
+          "Keras"
+        ],
+        "notes": [
+          [
+            "Goal",
+            "Optimise cyclist training behaviour from tracked performance."
+          ],
+          [
+            "Approach",
+            "Computer vision and machine learning on athlete data."
+          ]
+        ]
+      }
+    ],
+    "sideLabel": "Side projects on GitHub",
+    "side": [
+      {
+        "title": "Rental Management App",
+        "detail": "Full-stack rental management for landlords and property owners. TypeScript.",
+        "url": "https://github.com/madoooaboelazaiem/rental-management-app"
+      },
+      {
+        "title": "MovieTrailerEngine",
+        "detail": "Movie discovery platform built as microservices. Vue.js, Node.js.",
+        "url": "https://github.com/madoooaboelazaiem/MovieTrailerEngine"
+      },
+      {
+        "title": "Apartment Search Engine",
+        "detail": "Property search and filtering platform. JavaScript.",
+        "url": "https://github.com/madoooaboelazaiem/Apartment-Search-Engine"
+      }
+    ]
+  },
+  "systems": {
+    "heading": [
+      "How I",
+      "think."
+    ],
+    "lede": "Four systems, one component at a time. Tap a component to see why it exists and what it trades off.",
+    "items": [
+      {
+        "name": "Payments messaging",
+        "context": "Keytrade Bank, 2024 – now",
+        "nodes": [
+          {
+            "title": "Channels",
+            "summary": "Retail and corporate banking clients",
+            "why": "Every payment starts as a request from a banking channel.",
+            "tradeoff": "Strict contracts at the edge keep the rest of the system simple.",
+            "stack": "React · TypeScript"
+          },
+          {
+            "title": "Services",
+            "summary": "Backend services with typed contracts",
+            "why": "Services talk through gRPC and Protobuf, so a contract change is caught at build time, not in production.",
+            "tradeoff": "Schema discipline across teams, in exchange for safe evolution.",
+            "stack": "Node.js · gRPC · Protobuf"
+          },
+          {
+            "title": "Message queues",
+            "summary": "Work flows through queues, not calls",
+            "why": "Queues decouple producers from processors, absorb bursts and let each consumer scale on its own.",
+            "tradeoff": "Eventual consistency and idempotency become your job.",
+            "stack": "RabbitMQ · Kafka"
+          },
+          {
+            "title": "Payment processors",
+            "summary": "Instant, SEPA, SWIFT, direct debits, standing orders",
+            "why": "Each rail has its own rules, cut-offs and failure modes, so each gets its own processing path.",
+            "tradeoff": "More paths to operate, but one rail’s trouble stays on that rail.",
+            "stack": "Event-driven processing"
+          },
+          {
+            "title": "Failure isolation",
+            "summary": "Skip-record breaker and backoff retries",
+            "why": "A failing record is isolated and the batch keeps flowing; transient failures retry with exponential backoff.",
+            "tradeoff": "Isolated records need their own follow-up. Result: 92% → 99% success.",
+            "stack": "Circuit breaker pattern"
+          },
+          {
+            "title": "Observability",
+            "summary": "Success metrics and anomaly alerts",
+            "why": "Self-triggered success metrics and real-time anomaly detection replace digging through database logs.",
+            "tradeoff": "Another system to run, in exchange for knowing before customers do.",
+            "stack": "Dynatrace · Elasticsearch"
+          }
+        ]
+      },
+      {
+        "name": "Multi-LLM orchestration",
+        "context": "Side project",
+        "nodes": [
+          {
+            "title": "Task",
+            "summary": "A job arrives as an event",
+            "why": "Work enters as an event, so it can be queued, retried and traced like any other job.",
+            "stack": "Inngest event"
+          },
+          {
+            "title": "Orchestrator",
+            "summary": "The master model plans and routes",
+            "why": "Planning is separated from doing: one model breaks the job into subtasks and picks a worker for each.",
+            "tradeoff": "An extra model call up front, in exchange for better routing and control.",
+            "stack": "LLM API · prompt engineering"
+          },
+          {
+            "title": "Workers",
+            "summary": "Specialised models execute subtasks",
+            "why": "Each subtask goes to the model best suited for it, in parallel where possible.",
+            "tradeoff": "More providers and prompts to maintain.",
+            "stack": "Multiple LLM APIs"
+          },
+          {
+            "title": "Validation",
+            "summary": "The orchestrator checks every result",
+            "why": "Results are checked before they are trusted; a failed check sends the subtask back.",
+            "tradeoff": "Latency for reliability.",
+            "stack": "Typed outputs · retries"
+          },
+          {
+            "title": "Result",
+            "summary": "Merged, validated output",
+            "why": "Only validated, merged output leaves the system.",
+            "stack": "TypeScript"
+          }
+        ]
+      },
+      {
+        "name": "Durable AI workflow",
+        "context": "Side project",
+        "nodes": [
+          {
+            "title": "Event",
+            "summary": "Something happens, a function starts",
+            "why": "No cron and no polling: the workflow is triggered by an event.",
+            "stack": "Inngest event"
+          },
+          {
+            "title": "step.run",
+            "summary": "Each step is retried and memoised",
+            "why": "If the model call in step 3 fails, steps 1 and 2 don’t run again.",
+            "tradeoff": "Code is split into explicit steps.",
+            "stack": "Inngest step.run"
+          },
+          {
+            "title": "LLM call",
+            "summary": "Slow, flaky, expensive, isolated in a step",
+            "why": "The model call gets its own retries and timeout without surrounding glue code.",
+            "stack": "LLM API"
+          },
+          {
+            "title": "waitForEvent",
+            "summary": "Pause until something happens",
+            "why": "Waiting for a human review or a webhook costs nothing: no loop asking “is it done yet?”",
+            "tradeoff": "Flow is driven by events, so naming them well matters.",
+            "stack": "Inngest step.waitForEvent"
+          },
+          {
+            "title": "Done",
+            "summary": "Completion event for whoever needs it",
+            "why": "Downstream systems react to the finished event instead of polling for status.",
+            "stack": "Event-driven"
+          }
+        ]
+      },
+      {
+        "name": "Marketplace platform",
+        "context": "Sylndr, 2022 – 2023",
+        "nodes": [
+          {
+            "title": "Clients",
+            "summary": "Web and mobile apps for buyers",
+            "why": "React on the web and React Native on mobile, on one shared backend.",
+            "tradeoff": "Shared APIs mean careful versioning across apps.",
+            "stack": "React · React Native"
+          },
+          {
+            "title": "Microservices",
+            "summary": "NestJS services in TypeScript",
+            "why": "Separate services let a 12+ person team ship in parallel.",
+            "tradeoff": "More moving parts than a monolith; worth it at that team size.",
+            "stack": "NestJS · REST"
+          },
+          {
+            "title": "Scheduling",
+            "summary": "Inspection and delivery calendar",
+            "why": "Coordinates warehouse visits and home delivery for buyers.",
+            "tradeoff": "Built in-house because it was core to the buying flow.",
+            "stack": "Custom calendar system"
+          },
+          {
+            "title": "Integrations",
+            "summary": "15+ third-party APIs",
+            "why": "Payments, SMS and other providers wired into the platform.",
+            "tradeoff": "Every external API can fail; isolate each one.",
+            "stack": "Paymob · Cequens · Twilio"
+          },
+          {
+            "title": "Platform",
+            "summary": "Kubernetes on AWS and GCP",
+            "why": "Highly available multi-cloud with automated releases replacing manual deploys.",
+            "tradeoff": "Operational complexity in exchange for resilience.",
+            "stack": "Kubernetes · GitLab CI"
+          }
+        ]
+      }
+    ]
+  },
+  "experience": {
+    "heading": [
+      "Education &",
+      "experience."
+    ],
+    "items": [
+      {
+        "year": "2024",
+        "label": "Keytrade Bank",
+        "kind": "Work",
+        "role": "Senior Software Engineer, Payment Systems",
+        "org": "Keytrade Bank",
+        "place": "Brussels, Belgium",
+        "period": "October 2024 – present",
+        "summary": "Distributed systems and messaging for digital banking payments at a regulated EU financial institution.",
+        "points": [
+          "Backend services and message queues (RabbitMQ, Kafka, gRPC) for retail and corporate payments: instant payments, SEPA direct debits, SWIFT, memo payments and standing orders.",
+          "Skip-record circuit breaker, designed and built independently: pipeline success from 92% to 99%.",
+          "Event-driven execution with exponential backoff: 50% performance improvement and horizontal scaling.",
+          "Observability with self-triggered success metrics and real-time anomaly detection on Dynatrace and Elasticsearch.",
+          "Onboarding time cut by 30% through runbooks, architecture documentation and mentoring; Terraform in production on AWS."
+        ],
+        "tags": [
+          "Node.js",
+          "TypeScript",
+          "RabbitMQ",
+          "Kafka",
+          "gRPC",
+          "Protobuf",
+          "PostgreSQL",
+          "Redis",
+          "React",
+          "AWS",
+          "Terraform",
+          "Dynatrace",
+          "Elasticsearch"
+        ]
+      },
+      {
+        "year": "2023",
+        "label": "Features Analytics",
+        "kind": "Work",
+        "role": "Software Engineer, AI Trade Surveillance & Analytics",
+        "org": "Features Analytics",
+        "place": "Nivelles, Belgium",
+        "period": "July 2023 – September 2024",
+        "summary": "My first job in Belgium: AI on high-frequency trade data for institutional clients, full stack.",
+        "points": [
+          "Designed a full-stack platform bridging a high-throughput computational backend with Vue.js dashboards.",
+          "Optimised the AI model analysis pipeline with decision tree algorithms for near real-time trade processing."
+        ],
+        "tags": [
+          "Java",
+          "Python",
+          "Node.js",
+          "Vue.js",
+          "PostgreSQL",
+          "AWS"
+        ]
+      },
+      {
+        "year": "2022",
+        "label": "Sylndr",
+        "kind": "Founding team",
+        "role": "Founding Member, Full-Stack Engineer & Team Lead",
+        "org": "Sylndr",
+        "place": "Cairo, Egypt",
+        "period": "September 2022 – July 2023",
+        "summary": "Founding member of a VC-backed automotive FinTech marketplace ($12.6M pre-seed) with $20–25K average transactions and roughly 10× sales growth during my tenure.",
+        "points": [
+          "Led 12+ developers across backend, frontend and mobile; set code review standards, GitLab CI/CD and sprint rituals.",
+          "Architected a highly available multi-cloud microservices platform on AWS and GCP with 15+ third-party integrations.",
+          "Deployed production Kubernetes with automated release pipelines.",
+          "Built the vehicle inspection scheduling and calendar system.",
+          "Ran technical hiring and mentored interns."
+        ],
+        "tags": [
+          "NestJS",
+          "Node.js",
+          "TypeScript",
+          "React",
+          "React Native",
+          "PostgreSQL",
+          "Redis",
+          "MongoDB",
+          "Kubernetes",
+          "AWS",
+          "GCP",
+          "GitLab CI"
+        ]
+      },
+      {
+        "year": "2021",
+        "label": "Epicore",
+        "kind": "Work",
+        "role": "Full-Stack Software Engineer",
+        "org": "Epicore",
+        "place": "Cairo, Egypt",
+        "period": "April 2021 – September 2022",
+        "summary": "Three full-stack e-commerce applications delivered in an agile team.",
+        "points": [
+          "Built 3 full-stack e-commerce applications on a monolithic backend.",
+          "Designed REST and GraphQL APIs with attention to query optimisation.",
+          "Tuned PostgreSQL and MongoDB for response time and throughput."
+        ],
+        "tags": [
+          "Node.js",
+          "Express",
+          "GraphQL",
+          "PostgreSQL",
+          "MongoDB"
+        ]
+      },
+      {
+        "year": "2020",
+        "label": "DHBW Stuttgart",
+        "kind": "Research",
+        "role": "R&D Engineer, Bachelor Thesis",
+        "org": "DHBW Stuttgart",
+        "place": "Stuttgart, Germany",
+        "period": "March 2020 – August 2020",
+        "summary": "An intelligent athlete performance tracking system using computer vision and machine learning to optimise cyclist training behaviour.",
+        "points": [
+          "Computer vision pipeline with OpenCV.",
+          "Machine learning with Keras, NumPy and Pandas."
+        ],
+        "tags": [
+          "Python",
+          "OpenCV",
+          "NumPy",
+          "Pandas",
+          "Keras"
+        ]
+      },
+      {
+        "year": "2019",
+        "label": "LocusKey",
+        "kind": "Work",
+        "role": "Full-Stack Developer",
+        "org": "LocusKey",
+        "place": "Cairo, Egypt",
+        "period": "June 2019 – March 2020",
+        "summary": "Backend for an early-stage tourism platform.",
+        "points": [
+          "Architected backend infrastructure integrating payment gateways, push notifications and third-party booking APIs.",
+          "Designed and managed the deployment pipeline.",
+          "Mentored junior developers on backend architecture, API design and deployment."
+        ],
+        "tags": [
+          "Node.js",
+          "PostgreSQL",
+          "Vue.js",
+          "AWS EC2",
+          "AWS RDS"
+        ]
+      },
+      {
+        "year": "2016",
+        "label": "GUC",
+        "kind": "Education",
+        "role": "BSc Computer Science & Engineering",
+        "org": "German University in Cairo",
+        "place": "Cairo, Egypt",
+        "period": "September 2016 – July 2021",
+        "summary": "Bachelor’s degree, with the final thesis completed as an R&D engineer at DHBW Stuttgart.",
+        "points": [],
+        "tags": []
+      }
+    ]
+  },
+  "learning": {
+    "heading": [
+      "Always",
+      "learning."
+    ],
+    "lede": "From a computer-vision thesis in Germany to LLM orchestration today, plus cloud certification and two languages in progress.",
+    "items": [
+      {
+        "title": "LLM orchestration & durable workflows",
+        "detail": "Self-directed: multi-model systems, Inngest, prompt engineering",
+        "when": "Ongoing"
+      },
+      {
+        "title": "AWS Certified Cloud Practitioner",
+        "detail": "Amazon Web Services",
+        "when": "2023 – 2026"
+      },
+      {
+        "title": "R&D Engineer, bachelor thesis",
+        "detail": "DHBW Stuttgart, computer vision and ML",
+        "when": "2020"
+      },
+      {
+        "title": "BSc Computer Science & Engineering",
+        "detail": "German University in Cairo",
+        "when": "2016 – 2021"
+      },
+      {
+        "title": "French and German",
+        "detail": "Conversational and basic, both improving",
+        "when": "Ongoing"
+      }
+    ]
+  },
+  "achievements": {
+    "heading": [
+      "Proud",
+      "moments."
+    ],
+    "hint": "Swipe sideways",
+    "items": [
+      {
+        "big": "Day 1",
+        "title": "Founding member",
+        "detail": "Part of the founding team at Sylndr, a $12.6M pre-seed FinTech marketplace.",
+        "org": "Sylndr"
+      },
+      {
+        "value": 12,
+        "suffix": "+",
+        "title": "Developers led",
+        "detail": "Across backend, frontend and mobile.",
+        "org": "Sylndr"
+      },
+      {
+        "prefix": "92→",
+        "value": 99,
+        "suffix": "%",
+        "title": "Payment pipeline success rate",
+        "detail": "A skip-record circuit breaker I designed and built on my own.",
+        "org": "Keytrade Bank"
+      },
+      {
+        "prefix": "~",
+        "value": 10,
+        "suffix": "×",
+        "title": "Sales growth during my tenure",
+        "detail": "On the platform my team built and ran.",
+        "org": "Sylndr"
+      },
+      {
+        "value": 50,
+        "suffix": "%",
+        "title": "Faster payment execution",
+        "detail": "Event-driven processing with exponential backoff.",
+        "org": "Keytrade Bank"
+      },
+      {
+        "value": 30,
+        "suffix": "%",
+        "title": "Faster onboarding for engineers",
+        "detail": "Runbooks, architecture docs and structured mentoring.",
+        "org": "Keytrade Bank"
+      },
+      {
+        "value": 15,
+        "suffix": "+",
+        "title": "Third-party APIs integrated",
+        "detail": "Payments, SMS and scheduling on a multi-cloud platform.",
+        "org": "Sylndr"
+      },
+      {
+        "value": 8,
+        "suffix": "+",
+        "title": "Years in software engineering",
+        "detail": "Payments, trading analytics and automotive FinTech.",
+        "org": "Full-stack"
+      }
+    ]
+  },
+  "contact": {
+    "heading": [
+      "Let's build",
+      "something together"
+    ],
+    "emailCta": "Email me",
+    "resumeLabel": "Résumé (PDF)"
+  },
+  "footer": {
+    "left": "© 2026 Mohamed Salama",
+    "right": "Brussels, Belgium"
+  }
+}
